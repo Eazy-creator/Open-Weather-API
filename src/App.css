@@ -1,0 +1,20 @@
+.weather-icon {
+  width: 100px;
+}
+
+
+.App { 
+  background: rgb(227,0,240);
+background: linear-gradient(211deg, rgba(227,0,240,1) 20%, rgba(50,1,237,1) 66%);
+background-size: cover;
+}
+
+.container {
+  background: rgb(227,0,240);
+background: linear-gradient(211deg, rgba(227,0,240,1) 20%, rgba(50,1,237,1) 66%);
+  background-size: cover;
+  height: 760px;
+  width: 400px;
+  
+}
+
